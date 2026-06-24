@@ -71,7 +71,13 @@ Average: 90.0
 Grade: A
 Pass
 ```
+## Features
 
+- Student information management
+- Marks calculation
+- Grade generation
+- Pass/Fail detection
+- Menu-driven interface
 ## 🎯 Learning Objectives
 
 This project demonstrates:
